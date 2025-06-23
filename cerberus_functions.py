@@ -66,7 +66,7 @@ class Spot:
     def spot_poweroff(self):
         """Causes Spot to immediately collapse and power off"""
 
-        operator_msg = "FUCK MAGA"
+        operator_msg = "FUCK FASCISM"
 
         # ======= TERMINATE SPOT =======
         with bosdyn.client.lease.LeaseKeepAlive(lease_client, must_acquire=True, return_at_exit=True):
